@@ -1,1 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pybrml.iml
+.idea/workspace.xml
+toolbox-100315/+brml/.DS_Store
+toolbox-100315/+brml/condexp.m~
+toolbox-100315/.DS_Store
